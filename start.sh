@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=5aaed9b7-7fe3-47c3-bb52-db59859ce198
+AUUID=17135a21-e258-4eae-b4af-9ba3addc459d
 CADDYIndexPage=https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/test/test/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/test/test/master/etc/xray.json
